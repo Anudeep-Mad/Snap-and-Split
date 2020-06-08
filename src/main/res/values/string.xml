@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Snap and Split</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">740080162794838</string>
+    <string name="access_token">pk.eyJ1IjoidmluYXluaWtoaWwiLCJhIjoiY2lrdHRrcDYzMDA3dnVta3MzdWVmZGR1ayJ9.iWow1sQS5ZUhglsB-IwoVA</string>
+    <string name="google_api_key">AIzaSyC-bVKpMEQl1ZlAPDTH8F9g-emzv92i7W4</string>
+    <string name="navigation_drawer_open">Open Drawer </string>
+    <string name="navigation_drawer_close">Close Drawer </string>
+
+    <string name="name">ScanLibrary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="scanning">Scanning</string>
+    <string name="done">Done</string>
+    <string name="scan">Scan</string>
+    <string name="cantCrop">Cant crop the image, change the points</string>
+    <string name="ok">Ok</string>
+
+
+    <string name="button_text">OCR!</string>
+    <string name="text_hint">OCRed Text will appear here</string>
+
+
+
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+
+</resources>
